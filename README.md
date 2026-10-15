@@ -1,4 +1,4 @@
-# Bitstek Advisory - React + Vite
+# Bitstek - Demo
 
 Same look as the original site: the original CSS, fonts, images and UIkit/theme scripts are
 kept in `public/`, and every page's markup is converted 1:1 into React components.
